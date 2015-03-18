@@ -31,7 +31,7 @@ to the editor contents, and possible validation bubbles appear.
 
 ## How to use?
 
-Copy the `validatable` folder located in `js/tinymce/plugins/` into the `plugins` folder of your local TinyMCE
+Copy or clone or submodule this project to a `validatable` folder into the `plugins` folder of your local TinyMCE
 installation, and include the name of the plugin in the `plugins` option:
 
 ```js
